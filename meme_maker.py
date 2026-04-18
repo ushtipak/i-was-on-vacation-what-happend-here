@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# /// script
+# requires-python = ">=3.8"
+# dependencies = []
+# ///
 """
 meme_maker.py — imgflip helper for the vacation-backlog meme generator.
 

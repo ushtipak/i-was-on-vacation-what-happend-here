@@ -87,6 +87,13 @@ Claude follows the steps in `CLAUDE.md` automatically.
 
 The script is used by Claude under the hood, but you can also call it directly:
 
+Both invocation styles work identically:
+
+```bash
+python3 meme_maker.py <subcommand>
+uv run  meme_maker.py <subcommand>
+```
+
 ```bash
 # list available meme templates
 python3 meme_maker.py templates
