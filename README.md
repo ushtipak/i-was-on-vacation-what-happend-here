@@ -122,3 +122,12 @@ Output lands in `output/index.html`. Open it in any browser.
 ## Output
 
 `output/` is gitignored — your team's Slack content stays local.
+
+---
+
+## Examples
+
+![This Is Fine](static/meme-this-is-fine.png)
+
+![0 Days Without](static/meme-0-days-without.png)
+
